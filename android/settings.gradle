@@ -1,0 +1,3 @@
+rootProject.name = 'lab-react-native'
+
+include ':app'
